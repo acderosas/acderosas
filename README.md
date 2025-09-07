@@ -18,7 +18,7 @@ Resume Link
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badgeJavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 </div>
 
 <br>
