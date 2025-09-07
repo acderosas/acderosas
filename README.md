@@ -34,7 +34,7 @@ Resume Link
 <div>
     <a href="mailto:andrederosasadr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://linkedin.com/in/andre-de-rosas-a89044355/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://discordapp.com/users/669382053921423360" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://open.spotify.com/user/31hilmqs5c4tdwxybvz5j4fyqjdu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div><br>
 
