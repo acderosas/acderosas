@@ -1,15 +1,14 @@
 <h1 align="center"><b>Hello there, I'm Andre de Rosas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<br>
 
 <h2>About Me</h2>
 <p>
 I went to Folsom Lake College for a couple years before going to California State University of Chico where I would get my Bachelors in Computer Science in the Summer of 2025 (Waiting for Diploma to ship right now).
-Currently I'm working on side projects (outside of school) to apply what I have learned in school outside of doing assignments.
+Currently I'm working on side projects to apply what I have learned in school.
 I love to follow sports: hockey (SJ Sharks), Basketball (LA Lakers), Baseball (LA Angels), American Football (La Chargers), and Football (FC Barcelona).
 I play gacha games, listen to music, watch movies, and occasionally read and draw.
 
-Personal Website Link
+Personal Website Link<br>
 Resume Link
 </p>
 <br>
@@ -19,7 +18,7 @@ Resume Link
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badgeJavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascriptlogoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badgeJavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white">
 </div>
 
 <br>
@@ -27,7 +26,7 @@ Resume Link
 <h2>Frameworks</h2>
 <div>
     <img alt="Django" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 </div>
 <br>
 
@@ -39,6 +38,7 @@ Resume Link
     <a href="https://open.spotify.com/user/31hilmqs5c4tdwxybvz5j4fyqjdu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
-<p>Reference for making Profile Page: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file<p>
+<p>Reference for making Profile Page:</p> 
+<p>https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file</p>
 
 
