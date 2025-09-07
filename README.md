@@ -25,7 +25,7 @@ Resume Link
 
 <h2>Frameworks</h2>
 <div>
-    <img alt="Django" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 </div>
 <br>
@@ -36,9 +36,8 @@ Resume Link
     <a href="https://linkedin.com/in/andre-de-rosas-a89044355/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://open.spotify.com/user/31hilmqs5c4tdwxybvz5j4fyqjdu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-</div>
+</div><br>
 
-<p>Reference for making Profile Page:</p> 
-<p>https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file</p>
+<p>Reference for making Profile Page:<br>https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file</p>
 
 
