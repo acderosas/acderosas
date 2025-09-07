@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center"><b>Hello there, I'm Andre de Rosas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<!--
-**acderosas/acderosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2>About Me</h2>
+<p>
+I went to Folsom Lake College for a couple years before going to California State University of Chico where I would get my Bachelors in Computer Science in the Summer of 2025 (Waiting for Diploma to ship right now).
+Currently I'm working on side projects (outside of school) to apply what I have learned in school outside of doing assignments.
+I love to follow sports: hockey (SJ Sharks), Basketball (LA Lakers), Baseball (LA Angels), American Football (La Chargers), and Football (FC Barcelona).
+I play gacha games, listen to music, watch movies, and occasionally read and draw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Website Link
+Resume Link
+</p>
+<br>
+
+<h2>Programming Languages</h2>
+<div>
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badgeJavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascriptlogoColor=white">
+</div>
+
+<br>
+
+<h2>Frameworks</h2>
+<div>
+    <img alt="Django" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+<br>
+
+<h2>Connect with me</h2>
+<div>
+    <a href="mailto:andrederosasadr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://linkedin.com/in/andre-de-rosas-a89044355/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://open.spotify.com/user/31hilmqs5c4tdwxybvz5j4fyqjdu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>
+
+<p>Reference for making Profile Page: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file<p>
+
+
