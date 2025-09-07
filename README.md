@@ -5,8 +5,8 @@
 <p>
 I went to Folsom Lake College for a couple years before going to California State University of Chico where I would get my Bachelors in Computer Science in the Summer of 2025 (Waiting for Diploma to ship right now).
 Currently I'm working on side projects to apply what I have learned in school.
-I love to follow sports: hockey (SJ Sharks), Basketball (LA Lakers), Baseball (LA Angels), American Football (La Chargers), and Football (FC Barcelona).
-I play gacha games, listen to music, watch movies, and occasionally read and draw.
+I love sports: hockey (SJ Sharks), basketball (LA Lakers), baseball (LA Angels), American football (LA Chargers), and football (FC Barcelona).
+Other hobbies include playing gacha games, listening to music, watching movies, and occasionally reading and drawing.
 
 Personal Website Link<br>
 Resume Link
