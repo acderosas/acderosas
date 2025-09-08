@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello there, I'm Andre de Rosas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <div align="center">
-  <img src="photos/currentgithub.png" width="200" alt="Current GitHub Profile Picture">
+  <img src="photos/currentgithub.jpg" width="200" alt="Current GitHub Profile Picture">
 </div>
 
 <h2>About Me</h2>
