@@ -33,6 +33,13 @@ Resume Link
 </div>
 <br>
 
+<h2>Databases</h2>
+<div>
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
+    <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+</div>
+<br>
+
 <h2>Connect with me</h2>
 <div>
     <a href="mailto:andrederosasadr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
