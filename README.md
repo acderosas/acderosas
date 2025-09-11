@@ -22,14 +22,20 @@ Resume Link
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
 </div>
 
 <br>
 
-<h2>Frameworks</h2>
+<h2>Frontend and Frameworks</h2>
 <div>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-563D7C?style=flat-square&logo=css&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+    <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
 </div>
 <br>
 
@@ -37,6 +43,7 @@ Resume Link
 <div>
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
     <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34">
 </div>
 <br>
 
@@ -49,5 +56,7 @@ Resume Link
 </div><br>
 
 <p>Reference for making Profile Page:<br>https://github.com/durgeshsamariya/awesome-github-profile-readme-templates?tab=readme-ov-file</p>
+
+<p>Badges:<br>https://github.com/Ileriayo/markdown-badges<br>https://simpleicons.org/?q=html</p>
 
 
