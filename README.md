@@ -12,7 +12,7 @@ I love sports: hockey (SJ Sharks), basketball (LA Lakers), baseball (LA Angels),
 Other hobbies include playing gacha games, listening to music, watching movies, and occasionally reading and drawing.
 
 <a href="https://acderosas.github.io">Personal Website</a><br>
-Resume Link
+<a href="https://piecemeals.onrender.com">MVP for Arts and Crafts Website: using Docker, Django, Postgres, Render</a><br>
 </p>
 <br>
 
@@ -22,9 +22,7 @@ Resume Link
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
 </div>
-
 <br>
 
 <h2>Frontend and Frameworks</h2>
@@ -42,6 +40,7 @@ Resume Link
 <h2>Databases</h2>
 <div>
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
     <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34">
 </div>
