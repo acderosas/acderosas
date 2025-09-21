@@ -13,6 +13,7 @@ Other hobbies include playing gacha games, listening to music, watching movies, 
 
 <a href="https://acderosas.github.io">Personal Website</a><br>
 <a href="https://piecemeals.onrender.com">MVP for Arts and Crafts Website: using Docker, Django, Postgres, Render</a><br>
+<p>MoneyCounter App: Utilizing React Native with Expo (Focused on Android) and utilizing Yolo with Kaggle and Roboflow</p>
 </p>
 <br>
 
