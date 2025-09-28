@@ -13,7 +13,7 @@ Other hobbies include playing gacha games, listening to music, watching movies, 
 
 <a href="https://acderosas.github.io">Personal Website</a><br>
 <a href="https://piecemeals.onrender.com">MVP for Arts and Crafts Website: using Docker, Django, Postgres, Render</a><br>
-GymBros (Will expand on previous school project): Backlog, Flutter, Dart, Firebase, APK, wasn't able to implement some features, also need to clean up the code. <br>
+GymBros, a gym buddy app (Will expand on previous school project): Backlog, Flutter, Dart, Firebase, APK, wasn't able to implement some features, also need to clean up the code. <br>
 MoneyCounter App: Backlog, Utilizing React Native with Expo (Focused on iPhone as it is easier to test rather than using Desktop w/o camera or using laptop with camera) and utilizing Yolo with Kaggle and Roboflow<br>
 SFML Platformer: Backlog, SFML, C++
 </p>
