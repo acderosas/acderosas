@@ -7,14 +7,15 @@
 <h2>About Me</h2>
 <p>
 I went to Folsom Lake College for a couple years before going to California State University of Chico where I would get my Bachelors in Computer Science in the Summer of 2025.
-Currently I'm focused on reviewing DSA on Leetcode and dabbling on side projects to apply what I have learned in school (Outside projects I've done in school but thinking about expanding on those).
+Currently I'm focused on reviewing DSA on Leetcode. Will be dabbling on side projects to apply what I have learned in school (Outside projects I've done in school but thinking about expanding on those).
 I love sports: hockey (SJ Sharks), basketball (LA Lakers), baseball (LA Angels), American football (LA Chargers), and football (FC Barcelona).
 Other hobbies include playing gacha games, listening to music, watching movies, and occasionally reading and drawing.
 
 <a href="https://acderosas.github.io">Personal Website</a><br>
 <a href="https://piecemeals.onrender.com">MVP for Arts and Crafts Website: using Docker, Django, Postgres, Render</a><br>
-MoneyCounter App: Utilizing React Native with Expo (Focused on iPhone as it is easier to test rather than using Desktop w/o camera or using laptop with camera) and utilizing Yolo with Kaggle and Roboflow<br>
-SFML Platformer: backlog, SFML, C++
+GymBros (Will expand on previous school project): Backlog, Flutter, Dart, Firebase, APK, wasn't able to implement some features, also need to clean up the code. <br>
+MoneyCounter App: Backlog, Utilizing React Native with Expo (Focused on iPhone as it is easier to test rather than using Desktop w/o camera or using laptop with camera) and utilizing Yolo with Kaggle and Roboflow<br>
+SFML Platformer: Backlog, SFML, C++
 </p>
 <br>
 
